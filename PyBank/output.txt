@@ -1,0 +1,5 @@
+Total Months: 86
+Total Profit/Losses: 38382578
+Percentage Change: -0.28671102859649694
+Greatest Profit: 1170593
+Greatest Loss: -1196225
